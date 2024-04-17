@@ -1,0 +1,43 @@
+# Unity specific
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop / Rider specific
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.sln.DotSettings.user
+/*.orig
+/*.dll
+/*.pdb
+
+# OS generated files
+.DS_Store*
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# Auto-generated video files
+*.mp4
+*.avi
+*.mov
+*.ogg
+*.ogv
+*.webm
+
